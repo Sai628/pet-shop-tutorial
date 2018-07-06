@@ -2,14 +2,14 @@
 
 This is a DApp Demo - an adoption tracking system for a pet shop!
 
-## Setting up the development environment
+#### Setting up the development environment
 
 ```bash
 $ npm install -g truffle
 $ npm install -g ganache-cli
 ```
 
-## Directory structure
+### Directory structure
 
 The default Truffle project directory structure contains the following:
 
@@ -23,7 +23,7 @@ The default Truffle project directory structure contains the following:
 
 > `src/`: the directory for website.
 
-## How to run
+### How to run
 
 You should launch `Ganache` app, or execute `ganache-cli -p 7545 -i 5777` in terminal before.
 
@@ -36,6 +36,9 @@ $ truffle test     # do contracts test
 $ npm run dev      # serves the front-end on http://localhost:3000
 ```
 
-## License
+### Preview
+![](http://oo8lgm5bz.bkt.clouddn.com/2018-07-06-pet-shop-tutorial-preview-00.png?imageView2/2/w/700)
+
+### License
 
 MIT
