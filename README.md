@@ -37,7 +37,7 @@ $ npm run dev      # serves the front-end on http://localhost:3000
 ```
 
 ### Preview
-![](http://oo8lgm5bz.bkt.clouddn.com/2018-07-06-pet-shop-tutorial-preview-00.png?imageView2/2/w/700)
+![](https://sai628-github-image.oss-cn-shenzhen.aliyuncs.com/2018-07-06-pet-shop-tutorial-preview-00.png?x-oss-process=image/resize,w_700)
 
 ### License
 
